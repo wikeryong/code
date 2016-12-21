@@ -1,7 +1,7 @@
 package com.fxexperience.tools.derivationcalc;
 
 import com.fxexperience.javafx.scene.control.colorpicker.ColorPicker;
-import com.sun.javafx.Utils;
+import com.sun.javafx.util.Utils;
 import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.beans.binding.StringBinding;
